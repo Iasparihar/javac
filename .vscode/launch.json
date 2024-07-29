@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "testswitch",
+            "request": "launch",
+            "mainClass": "testswitch",
+            "projectName": "Java_eb765cbb"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
