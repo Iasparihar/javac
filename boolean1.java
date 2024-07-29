@@ -4,6 +4,9 @@ public class boolean1 {
         boolean Abhishek= true;
         boolean Prabhat = false;
 
+
+        
+
         System.out.println(Abhishek);
         
     }
